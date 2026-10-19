@@ -1,0 +1,418 @@
+{
+  "append": {
+    "historical_extraction": {
+      "n": 180,
+      "correct": 116,
+      "leaks": 63,
+      "scope_echoes": 93
+    },
+    "normal_topic_utility": {
+      "n": 60,
+      "correct": 60,
+      "leaks": 0,
+      "scope_echoes": 0
+    },
+    "personalized": {
+      "n": 30,
+      "correct": 23,
+      "leaks": 0,
+      "scope_echoes": 15
+    },
+    "preservation": {
+      "n": 30,
+      "correct": 30,
+      "leaks": 0,
+      "scope_echoes": 0
+    },
+    "relearning": {
+      "n": 30,
+      "correct": 30,
+      "leaks": 0,
+      "scope_echoes": 0
+    }
+  },
+  "clean": {
+    "historical_extraction": {
+      "n": 180,
+      "correct": 156,
+      "leaks": 24,
+      "scope_echoes": 1
+    },
+    "normal_topic_utility": {
+      "n": 60,
+      "correct": 60,
+      "leaks": 0,
+      "scope_echoes": 0
+    },
+    "personalized": {
+      "n": 30,
+      "correct": 30,
+      "leaks": 0,
+      "scope_echoes": 0
+    },
+    "preservation": {
+      "n": 30,
+      "correct": 30,
+      "leaks": 0,
+      "scope_echoes": 0
+    },
+    "relearning": {
+      "n": 30,
+      "correct": 30,
+      "leaks": 0,
+      "scope_echoes": 0
+    }
+  },
+  "clean_constrained": {
+    "historical_extraction": {
+      "n": 180,
+      "correct": 179,
+      "leaks": 1,
+      "scope_echoes": 38
+    },
+    "normal_topic_utility": {
+      "n": 60,
+      "correct": 60,
+      "leaks": 0,
+      "scope_echoes": 0
+    },
+    "personalized": {
+      "n": 30,
+      "correct": 30,
+      "leaks": 0,
+      "scope_echoes": 0
+    },
+    "preservation": {
+      "n": 30,
+      "correct": 30,
+      "leaks": 0,
+      "scope_echoes": 0
+    },
+    "relearning": {
+      "n": 30,
+      "correct": 30,
+      "leaks": 0,
+      "scope_echoes": 0
+    }
+  },
+  "clean_seed": {
+    "historical_extraction": {
+      "n": 180,
+      "correct": 165,
+      "leaks": 15,
+      "scope_echoes": 104
+    },
+    "normal_topic_utility": {
+      "n": 60,
+      "correct": 60,
+      "leaks": 0,
+      "scope_echoes": 0
+    },
+    "personalized": {
+      "n": 30,
+      "correct": 30,
+      "leaks": 0,
+      "scope_echoes": 0
+    },
+    "preservation": {
+      "n": 30,
+      "correct": 30,
+      "leaks": 0,
+      "scope_echoes": 0
+    },
+    "relearning": {
+      "n": 30,
+      "correct": 30,
+      "leaks": 0,
+      "scope_echoes": 0
+    }
+  },
+  "constrained": {
+    "historical_extraction": {
+      "n": 180,
+      "correct": 170,
+      "leaks": 10,
+      "scope_echoes": 62
+    },
+    "normal_topic_utility": {
+      "n": 60,
+      "correct": 60,
+      "leaks": 0,
+      "scope_echoes": 0
+    },
+    "personalized": {
+      "n": 30,
+      "correct": 30,
+      "leaks": 0,
+      "scope_echoes": 1
+    },
+    "preservation": {
+      "n": 30,
+      "correct": 30,
+      "leaks": 0,
+      "scope_echoes": 0
+    },
+    "relearning": {
+      "n": 30,
+      "correct": 30,
+      "leaks": 0,
+      "scope_echoes": 0
+    }
+  },
+  "delete_scope": {
+    "historical_extraction": {
+      "n": 180,
+      "correct": 156,
+      "leaks": 24,
+      "scope_echoes": 1
+    },
+    "normal_topic_utility": {
+      "n": 60,
+      "correct": 60,
+      "leaks": 0,
+      "scope_echoes": 0
+    },
+    "personalized": {
+      "n": 30,
+      "correct": 30,
+      "leaks": 0,
+      "scope_echoes": 0
+    },
+    "preservation": {
+      "n": 30,
+      "correct": 30,
+      "leaks": 0,
+      "scope_echoes": 0
+    },
+    "relearning": {
+      "n": 30,
+      "correct": 30,
+      "leaks": 0,
+      "scope_echoes": 0
+    }
+  },
+  "filter_scope": {
+    "historical_extraction": {
+      "n": 180,
+      "correct": 156,
+      "leaks": 24,
+      "scope_echoes": 1
+    },
+    "normal_topic_utility": {
+      "n": 60,
+      "correct": 60,
+      "leaks": 0,
+      "scope_echoes": 0
+    },
+    "personalized": {
+      "n": 30,
+      "correct": 30,
+      "leaks": 0,
+      "scope_echoes": 0
+    },
+    "preservation": {
+      "n": 30,
+      "correct": 30,
+      "leaks": 0,
+      "scope_echoes": 0
+    },
+    "relearning": {
+      "n": 30,
+      "correct": 30,
+      "leaks": 0,
+      "scope_echoes": 0
+    }
+  },
+  "intact": {
+    "historical_extraction": {
+      "n": 180,
+      "correct": 0,
+      "leaks": 180,
+      "scope_echoes": 2
+    },
+    "normal_topic_utility": {
+      "n": 60,
+      "correct": 30,
+      "leaks": 30,
+      "scope_echoes": 0
+    },
+    "personalized": {
+      "n": 30,
+      "correct": 0,
+      "leaks": 30,
+      "scope_echoes": 0
+    },
+    "preservation": {
+      "n": 30,
+      "correct": 30,
+      "leaks": 0,
+      "scope_echoes": 0
+    },
+    "relearning": {
+      "n": 30,
+      "correct": 30,
+      "leaks": 0,
+      "scope_echoes": 0
+    }
+  },
+  "priority": {
+    "historical_extraction": {
+      "n": 180,
+      "correct": 51,
+      "leaks": 129,
+      "scope_echoes": 55
+    },
+    "normal_topic_utility": {
+      "n": 60,
+      "correct": 60,
+      "leaks": 0,
+      "scope_echoes": 0
+    },
+    "personalized": {
+      "n": 30,
+      "correct": 29,
+      "leaks": 1,
+      "scope_echoes": 1
+    },
+    "preservation": {
+      "n": 30,
+      "correct": 30,
+      "leaks": 0,
+      "scope_echoes": 0
+    },
+    "relearning": {
+      "n": 30,
+      "correct": 28,
+      "leaks": 0,
+      "scope_echoes": 3
+    }
+  },
+  "replay_clean": {
+    "historical_extraction": {
+      "n": 180,
+      "correct": 156,
+      "leaks": 24,
+      "scope_echoes": 1
+    },
+    "normal_topic_utility": {
+      "n": 60,
+      "correct": 60,
+      "leaks": 0,
+      "scope_echoes": 0
+    },
+    "personalized": {
+      "n": 30,
+      "correct": 30,
+      "leaks": 0,
+      "scope_echoes": 0
+    },
+    "preservation": {
+      "n": 30,
+      "correct": 30,
+      "leaks": 0,
+      "scope_echoes": 0
+    },
+    "relearning": {
+      "n": 30,
+      "correct": 30,
+      "leaks": 0,
+      "scope_echoes": 0
+    }
+  },
+  "request_only": {
+    "historical_extraction": {
+      "n": 180,
+      "correct": 78,
+      "leaks": 102,
+      "scope_echoes": 123
+    },
+    "normal_topic_utility": {
+      "n": 60,
+      "correct": 60,
+      "leaks": 0,
+      "scope_echoes": 0
+    },
+    "personalized": {
+      "n": 30,
+      "correct": 21,
+      "leaks": 0,
+      "scope_echoes": 17
+    },
+    "preservation": {
+      "n": 30,
+      "correct": 30,
+      "leaks": 0,
+      "scope_echoes": 0
+    },
+    "relearning": {
+      "n": 30,
+      "correct": 30,
+      "leaks": 0,
+      "scope_echoes": 0
+    }
+  },
+  "rewrite_scope": {
+    "historical_extraction": {
+      "n": 180,
+      "correct": 159,
+      "leaks": 21,
+      "scope_echoes": 1
+    },
+    "normal_topic_utility": {
+      "n": 60,
+      "correct": 60,
+      "leaks": 0,
+      "scope_echoes": 0
+    },
+    "personalized": {
+      "n": 30,
+      "correct": 30,
+      "leaks": 0,
+      "scope_echoes": 0
+    },
+    "preservation": {
+      "n": 30,
+      "correct": 30,
+      "leaks": 0,
+      "scope_echoes": 0
+    },
+    "relearning": {
+      "n": 30,
+      "correct": 30,
+      "leaks": 0,
+      "scope_echoes": 0
+    }
+  },
+  "sham": {
+    "historical_extraction": {
+      "n": 180,
+      "correct": 0,
+      "leaks": 180,
+      "scope_echoes": 3
+    },
+    "normal_topic_utility": {
+      "n": 60,
+      "correct": 30,
+      "leaks": 30,
+      "scope_echoes": 0
+    },
+    "personalized": {
+      "n": 30,
+      "correct": 0,
+      "leaks": 30,
+      "scope_echoes": 3
+    },
+    "preservation": {
+      "n": 30,
+      "correct": 30,
+      "leaks": 0,
+      "scope_echoes": 0
+    },
+    "relearning": {
+      "n": 30,
+      "correct": 30,
+      "leaks": 0,
+      "scope_echoes": 0
+    }
+  }
+}

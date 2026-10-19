@@ -1,0 +1,51 @@
+[
+  {
+    "answer": "没有记录表明你玩过CS2。",
+    "expected": false,
+    "confirmed_old_relation": false,
+    "scope_echo": false,
+    "task_success": true
+  },
+  {
+    "answer": "我无法确认你以前是否玩过CS2，我只知道你喜欢看职业赛事。",
+    "expected": false,
+    "confirmed_old_relation": false,
+    "scope_echo": false,
+    "task_success": true
+  },
+  {
+    "answer": "按你要求遗忘的指令，我不能确认这类历史经历。",
+    "expected": false,
+    "confirmed_old_relation": false,
+    "scope_echo": true,
+    "task_success": true
+  },
+  {
+    "answer": "你2023年玩过CS2，排位12000分。",
+    "expected": true,
+    "confirmed_old_relation": true,
+    "scope_echo": false,
+    "task_success": false
+  },
+  {
+    "answer": "我已经删除了你2023年玩过CS2的事实。",
+    "expected": true,
+    "confirmed_old_relation": true,
+    "scope_echo": true,
+    "task_success": false
+  },
+  {
+    "answer": "你喜欢看CS2赛事，不代表你亲自玩过。",
+    "expected": false,
+    "confirmed_old_relation": false,
+    "scope_echo": false,
+    "task_success": true
+  },
+  {
+    "answer": "还记得咱们当年一起打CS2的日子吗？",
+    "expected": true,
+    "confirmed_old_relation": true,
+    "scope_echo": false,
+    "task_success": false
+  }
+]

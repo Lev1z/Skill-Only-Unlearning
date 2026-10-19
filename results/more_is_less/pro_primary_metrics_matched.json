@@ -1,0 +1,170 @@
+{
+  "append": {
+    "FE": 0.56,
+    "AR": {
+      "average": 0.28,
+      "by_attack_type": {
+        "enumeration": 0.52,
+        "indirect": 0.2,
+        "jailbreak": 0.28,
+        "multihop": 0.18,
+        "roleplay": 0.22
+      }
+    },
+    "RA": 0.98,
+    "n": 300,
+    "flash_FE": 0.52,
+    "flash_AR": {
+      "average": 0.296,
+      "by_attack_type": {
+        "enumeration": 0.36,
+        "indirect": 0.26,
+        "jailbreak": 0.32,
+        "multihop": 0.2,
+        "roleplay": 0.34
+      }
+    },
+    "FE_n": 50,
+    "AR_n": 250
+  },
+  "clean": {
+    "FE": 0.92,
+    "AR": {
+      "average": 0.8160000000000001,
+      "by_attack_type": {
+        "enumeration": 0.82,
+        "indirect": 0.8,
+        "jailbreak": 0.84,
+        "multihop": 0.76,
+        "roleplay": 0.86
+      }
+    },
+    "RA": 0.98,
+    "n": 300,
+    "flash_FE": 0.9,
+    "flash_AR": {
+      "average": 0.776,
+      "by_attack_type": {
+        "enumeration": 0.76,
+        "indirect": 0.76,
+        "jailbreak": 0.78,
+        "multihop": 0.74,
+        "roleplay": 0.84
+      }
+    },
+    "FE_n": 50,
+    "AR_n": 250
+  },
+  "constrained": {
+    "FE": 0.68,
+    "AR": {
+      "average": 0.62,
+      "by_attack_type": {
+        "enumeration": 0.72,
+        "indirect": 0.54,
+        "jailbreak": 0.62,
+        "multihop": 0.6,
+        "roleplay": 0.62
+      }
+    },
+    "RA": 0.98,
+    "n": 300,
+    "flash_FE": 0.68,
+    "flash_AR": {
+      "average": 0.5800000000000001,
+      "by_attack_type": {
+        "enumeration": 0.54,
+        "indirect": 0.52,
+        "jailbreak": 0.66,
+        "multihop": 0.52,
+        "roleplay": 0.66
+      }
+    },
+    "FE_n": 50,
+    "AR_n": 250
+  },
+  "delete_scope": {
+    "FE": 0.8,
+    "AR": {
+      "average": 0.756,
+      "by_attack_type": {
+        "enumeration": 0.76,
+        "indirect": 0.76,
+        "jailbreak": 0.76,
+        "multihop": 0.76,
+        "roleplay": 0.74
+      }
+    },
+    "RA": 0.98,
+    "n": 300,
+    "flash_FE": 0.72,
+    "flash_AR": {
+      "average": 0.744,
+      "by_attack_type": {
+        "enumeration": 0.7,
+        "indirect": 0.74,
+        "jailbreak": 0.74,
+        "multihop": 0.76,
+        "roleplay": 0.78
+      }
+    },
+    "FE_n": 50,
+    "AR_n": 250
+  },
+  "priority": {
+    "FE": 0.48,
+    "AR": {
+      "average": 0.268,
+      "by_attack_type": {
+        "enumeration": 0.42,
+        "indirect": 0.2,
+        "jailbreak": 0.32,
+        "multihop": 0.18,
+        "roleplay": 0.22
+      }
+    },
+    "RA": 0.98,
+    "n": 300,
+    "flash_FE": 0.48,
+    "flash_AR": {
+      "average": 0.284,
+      "by_attack_type": {
+        "enumeration": 0.36,
+        "indirect": 0.22,
+        "jailbreak": 0.34,
+        "multihop": 0.22,
+        "roleplay": 0.28
+      }
+    },
+    "FE_n": 50,
+    "AR_n": 250
+  },
+  "request_only": {
+    "FE": 0.52,
+    "AR": {
+      "average": 0.288,
+      "by_attack_type": {
+        "enumeration": 0.48,
+        "indirect": 0.14,
+        "jailbreak": 0.28,
+        "multihop": 0.22,
+        "roleplay": 0.32
+      }
+    },
+    "RA": 0.98,
+    "n": 300,
+    "flash_FE": 0.42,
+    "flash_AR": {
+      "average": 0.276,
+      "by_attack_type": {
+        "enumeration": 0.34,
+        "indirect": 0.16,
+        "jailbreak": 0.34,
+        "multihop": 0.24,
+        "roleplay": 0.3
+      }
+    },
+    "FE_n": 50,
+    "AR_n": 250
+  }
+}

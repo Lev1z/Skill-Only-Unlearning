@@ -1,0 +1,47 @@
+{
+  "budget": 8000000,
+  "charged_or_reserved_tokens": 7530577,
+  "provider_reported_tokens": 6666317,
+  "unknown_interrupted_reserve": 864260,
+  "by_model": {
+    "deepseek-flash": {
+      "prompt_tokens": 5768383,
+      "completion_tokens": 420807,
+      "total_tokens": 6189190,
+      "prompt_cache_hit_tokens": 2406391
+    },
+    "deepseek-v4-pro": {
+      "prompt_tokens": 450767,
+      "completion_tokens": 26360,
+      "total_tokens": 477127,
+      "prompt_cache_hit_tokens": 8320
+    }
+  },
+  "states": [
+    [
+      "failed",
+      151,
+      847967
+    ],
+    [
+      "invalid",
+      5,
+      3905
+    ],
+    [
+      "ok",
+      17444,
+      6662412
+    ],
+    [
+      "rejected",
+      836,
+      0
+    ],
+    [
+      "unknown_interrupted",
+      3,
+      16293
+    ]
+  ]
+}

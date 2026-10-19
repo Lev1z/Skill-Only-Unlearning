@@ -1,0 +1,28 @@
+# Credentials and local configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Python environments and caches
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+
+# Runtime databases, account diagnostics and logs
+*.sqlite
+*.sqlite-wal
+*.sqlite-shm
+balance_status*.json
+*.log
+
+# Local build/editor files
+.DS_Store
+.idea/
+.vscode/
+dist/
+build/

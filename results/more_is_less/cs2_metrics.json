@@ -1,0 +1,886 @@
+{
+  "intact": {
+    "direct": {
+      "n": 30,
+      "correct": 0.0,
+      "leakage": 1.0,
+      "refusal": 0.0
+    },
+    "indirect": {
+      "n": 30,
+      "correct": 0.0,
+      "leakage": 1.0,
+      "refusal": 0.0
+    },
+    "roleplay": {
+      "n": 30,
+      "correct": 0.0,
+      "leakage": 1.0,
+      "refusal": 0.0
+    },
+    "jailbreak": {
+      "n": 30,
+      "correct": 0.0,
+      "leakage": 1.0,
+      "refusal": 0.0
+    },
+    "enumeration": {
+      "n": 30,
+      "correct": 0.0,
+      "leakage": 1.0,
+      "refusal": 0.0
+    },
+    "multihop": {
+      "n": 30,
+      "correct": 0.0,
+      "leakage": 1.0,
+      "refusal": 0.0
+    },
+    "general": {
+      "n": 30,
+      "correct": 1.0,
+      "leakage": 0.0,
+      "refusal": 0.0
+    },
+    "recommend": {
+      "n": 30,
+      "correct": 0.0,
+      "leakage": 1.0,
+      "refusal": 0.0
+    },
+    "personalized": {
+      "n": 30,
+      "correct": 0.0,
+      "leakage": 1.0,
+      "refusal": 0.0
+    },
+    "preservation": {
+      "n": 30,
+      "correct": 1.0,
+      "leakage": 0.0,
+      "refusal": 0.0
+    },
+    "relearning": {
+      "n": 30,
+      "correct": 1.0,
+      "leakage": 0.0,
+      "refusal": 0.0
+    }
+  },
+  "request_only": {
+    "direct": {
+      "n": 30,
+      "correct": 0.0,
+      "leakage": 1.0,
+      "refusal": 0.26666666666666666
+    },
+    "indirect": {
+      "n": 30,
+      "correct": 0.1,
+      "leakage": 0.9,
+      "refusal": 1.0
+    },
+    "roleplay": {
+      "n": 30,
+      "correct": 0.0,
+      "leakage": 1.0,
+      "refusal": 0.7666666666666667
+    },
+    "jailbreak": {
+      "n": 30,
+      "correct": 0.0,
+      "leakage": 1.0,
+      "refusal": 0.0
+    },
+    "enumeration": {
+      "n": 30,
+      "correct": 0.0,
+      "leakage": 1.0,
+      "refusal": 0.26666666666666666
+    },
+    "multihop": {
+      "n": 30,
+      "correct": 0.0,
+      "leakage": 1.0,
+      "refusal": 0.26666666666666666
+    },
+    "general": {
+      "n": 30,
+      "correct": 1.0,
+      "leakage": 0.0,
+      "refusal": 0.0
+    },
+    "recommend": {
+      "n": 30,
+      "correct": 1.0,
+      "leakage": 0.0,
+      "refusal": 0.0
+    },
+    "personalized": {
+      "n": 30,
+      "correct": 0.5333333333333333,
+      "leakage": 0.4666666666666667,
+      "refusal": 0.0
+    },
+    "preservation": {
+      "n": 30,
+      "correct": 1.0,
+      "leakage": 0.0,
+      "refusal": 0.0
+    },
+    "relearning": {
+      "n": 30,
+      "correct": 1.0,
+      "leakage": 0.0,
+      "refusal": 0.0
+    }
+  },
+  "append": {
+    "direct": {
+      "n": 30,
+      "correct": 0.8333333333333334,
+      "leakage": 0.16666666666666666,
+      "refusal": 0.8666666666666667
+    },
+    "indirect": {
+      "n": 30,
+      "correct": 0.13333333333333333,
+      "leakage": 0.8666666666666667,
+      "refusal": 1.0
+    },
+    "roleplay": {
+      "n": 30,
+      "correct": 0.3333333333333333,
+      "leakage": 0.6666666666666666,
+      "refusal": 0.23333333333333334
+    },
+    "jailbreak": {
+      "n": 30,
+      "correct": 0.0,
+      "leakage": 1.0,
+      "refusal": 0.0
+    },
+    "enumeration": {
+      "n": 30,
+      "correct": 0.36666666666666664,
+      "leakage": 0.6333333333333333,
+      "refusal": 0.7
+    },
+    "multihop": {
+      "n": 30,
+      "correct": 0.0,
+      "leakage": 1.0,
+      "refusal": 0.7333333333333333
+    },
+    "general": {
+      "n": 30,
+      "correct": 1.0,
+      "leakage": 0.0,
+      "refusal": 0.0
+    },
+    "recommend": {
+      "n": 30,
+      "correct": 1.0,
+      "leakage": 0.0,
+      "refusal": 0.0
+    },
+    "personalized": {
+      "n": 30,
+      "correct": 0.5666666666666667,
+      "leakage": 0.43333333333333335,
+      "refusal": 0.0
+    },
+    "preservation": {
+      "n": 30,
+      "correct": 1.0,
+      "leakage": 0.0,
+      "refusal": 0.0
+    },
+    "relearning": {
+      "n": 30,
+      "correct": 1.0,
+      "leakage": 0.0,
+      "refusal": 0.0
+    }
+  },
+  "priority": {
+    "direct": {
+      "n": 30,
+      "correct": 0.0,
+      "leakage": 1.0,
+      "refusal": 0.03333333333333333
+    },
+    "indirect": {
+      "n": 30,
+      "correct": 0.0,
+      "leakage": 1.0,
+      "refusal": 0.5666666666666667
+    },
+    "roleplay": {
+      "n": 30,
+      "correct": 0.03333333333333333,
+      "leakage": 0.9666666666666667,
+      "refusal": 0.13333333333333333
+    },
+    "jailbreak": {
+      "n": 30,
+      "correct": 0.03333333333333333,
+      "leakage": 0.9666666666666667,
+      "refusal": 0.06666666666666667
+    },
+    "enumeration": {
+      "n": 30,
+      "correct": 0.03333333333333333,
+      "leakage": 0.9666666666666667,
+      "refusal": 0.3333333333333333
+    },
+    "multihop": {
+      "n": 30,
+      "correct": 0.0,
+      "leakage": 1.0,
+      "refusal": 0.4
+    },
+    "general": {
+      "n": 30,
+      "correct": 1.0,
+      "leakage": 0.0,
+      "refusal": 0.0
+    },
+    "recommend": {
+      "n": 30,
+      "correct": 1.0,
+      "leakage": 0.0,
+      "refusal": 0.0
+    },
+    "personalized": {
+      "n": 30,
+      "correct": 0.9666666666666667,
+      "leakage": 0.03333333333333333,
+      "refusal": 0.0
+    },
+    "preservation": {
+      "n": 30,
+      "correct": 1.0,
+      "leakage": 0.0,
+      "refusal": 0.0
+    },
+    "relearning": {
+      "n": 30,
+      "correct": 0.9,
+      "leakage": 0.06666666666666667,
+      "refusal": 0.03333333333333333
+    }
+  },
+  "constrained": {
+    "direct": {
+      "n": 30,
+      "correct": 0.6333333333333333,
+      "leakage": 0.36666666666666664,
+      "refusal": 0.7666666666666667
+    },
+    "indirect": {
+      "n": 30,
+      "correct": 0.7,
+      "leakage": 0.3,
+      "refusal": 1.0
+    },
+    "roleplay": {
+      "n": 30,
+      "correct": 1.0,
+      "leakage": 0.0,
+      "refusal": 1.0
+    },
+    "jailbreak": {
+      "n": 30,
+      "correct": 0.3,
+      "leakage": 0.7,
+      "refusal": 1.0
+    },
+    "enumeration": {
+      "n": 30,
+      "correct": 0.4666666666666667,
+      "leakage": 0.5333333333333333,
+      "refusal": 0.8333333333333334
+    },
+    "multihop": {
+      "n": 30,
+      "correct": 0.6666666666666666,
+      "leakage": 0.3333333333333333,
+      "refusal": 0.9666666666666667
+    },
+    "general": {
+      "n": 30,
+      "correct": 1.0,
+      "leakage": 0.0,
+      "refusal": 0.0
+    },
+    "recommend": {
+      "n": 30,
+      "correct": 1.0,
+      "leakage": 0.0,
+      "refusal": 0.0
+    },
+    "personalized": {
+      "n": 30,
+      "correct": 1.0,
+      "leakage": 0.0,
+      "refusal": 0.0
+    },
+    "preservation": {
+      "n": 30,
+      "correct": 1.0,
+      "leakage": 0.0,
+      "refusal": 0.0
+    },
+    "relearning": {
+      "n": 30,
+      "correct": 1.0,
+      "leakage": 0.0,
+      "refusal": 0.0
+    }
+  },
+  "sham": {
+    "direct": {
+      "n": 30,
+      "correct": 0.0,
+      "leakage": 1.0,
+      "refusal": 0.0
+    },
+    "indirect": {
+      "n": 30,
+      "correct": 0.0,
+      "leakage": 1.0,
+      "refusal": 0.0
+    },
+    "roleplay": {
+      "n": 30,
+      "correct": 0.0,
+      "leakage": 1.0,
+      "refusal": 0.0
+    },
+    "jailbreak": {
+      "n": 30,
+      "correct": 0.0,
+      "leakage": 1.0,
+      "refusal": 0.0
+    },
+    "enumeration": {
+      "n": 30,
+      "correct": 0.0,
+      "leakage": 1.0,
+      "refusal": 0.0
+    },
+    "multihop": {
+      "n": 30,
+      "correct": 0.0,
+      "leakage": 1.0,
+      "refusal": 0.0
+    },
+    "general": {
+      "n": 30,
+      "correct": 1.0,
+      "leakage": 0.0,
+      "refusal": 0.0
+    },
+    "recommend": {
+      "n": 30,
+      "correct": 0.0,
+      "leakage": 1.0,
+      "refusal": 0.0
+    },
+    "personalized": {
+      "n": 30,
+      "correct": 0.0,
+      "leakage": 1.0,
+      "refusal": 0.0
+    },
+    "preservation": {
+      "n": 30,
+      "correct": 1.0,
+      "leakage": 0.0,
+      "refusal": 0.0
+    },
+    "relearning": {
+      "n": 30,
+      "correct": 1.0,
+      "leakage": 0.0,
+      "refusal": 0.0
+    }
+  },
+  "delete_scope": {
+    "direct": {
+      "n": 30,
+      "correct": 1.0,
+      "leakage": 0.0,
+      "refusal": 0.9333333333333333
+    },
+    "indirect": {
+      "n": 30,
+      "correct": 0.7333333333333333,
+      "leakage": 0.26666666666666666,
+      "refusal": 0.0
+    },
+    "roleplay": {
+      "n": 30,
+      "correct": 0.3,
+      "leakage": 0.7,
+      "refusal": 0.0
+    },
+    "jailbreak": {
+      "n": 30,
+      "correct": 1.0,
+      "leakage": 0.0,
+      "refusal": 1.0
+    },
+    "enumeration": {
+      "n": 30,
+      "correct": 0.5333333333333333,
+      "leakage": 0.4666666666666667,
+      "refusal": 0.7333333333333333
+    },
+    "multihop": {
+      "n": 30,
+      "correct": 0.9666666666666667,
+      "leakage": 0.03333333333333333,
+      "refusal": 1.0
+    },
+    "general": {
+      "n": 30,
+      "correct": 1.0,
+      "leakage": 0.0,
+      "refusal": 0.0
+    },
+    "recommend": {
+      "n": 30,
+      "correct": 1.0,
+      "leakage": 0.0,
+      "refusal": 0.0
+    },
+    "personalized": {
+      "n": 30,
+      "correct": 1.0,
+      "leakage": 0.0,
+      "refusal": 0.0
+    },
+    "preservation": {
+      "n": 30,
+      "correct": 1.0,
+      "leakage": 0.0,
+      "refusal": 0.0
+    },
+    "relearning": {
+      "n": 30,
+      "correct": 1.0,
+      "leakage": 0.0,
+      "refusal": 0.0
+    }
+  },
+  "filter_scope": {
+    "direct": {
+      "n": 30,
+      "correct": 1.0,
+      "leakage": 0.0,
+      "refusal": 0.9333333333333333
+    },
+    "indirect": {
+      "n": 30,
+      "correct": 0.7333333333333333,
+      "leakage": 0.26666666666666666,
+      "refusal": 0.0
+    },
+    "roleplay": {
+      "n": 30,
+      "correct": 0.3,
+      "leakage": 0.7,
+      "refusal": 0.0
+    },
+    "jailbreak": {
+      "n": 30,
+      "correct": 1.0,
+      "leakage": 0.0,
+      "refusal": 1.0
+    },
+    "enumeration": {
+      "n": 30,
+      "correct": 0.5333333333333333,
+      "leakage": 0.4666666666666667,
+      "refusal": 0.7333333333333333
+    },
+    "multihop": {
+      "n": 30,
+      "correct": 0.9666666666666667,
+      "leakage": 0.03333333333333333,
+      "refusal": 1.0
+    },
+    "general": {
+      "n": 30,
+      "correct": 1.0,
+      "leakage": 0.0,
+      "refusal": 0.0
+    },
+    "recommend": {
+      "n": 30,
+      "correct": 1.0,
+      "leakage": 0.0,
+      "refusal": 0.0
+    },
+    "personalized": {
+      "n": 30,
+      "correct": 1.0,
+      "leakage": 0.0,
+      "refusal": 0.0
+    },
+    "preservation": {
+      "n": 30,
+      "correct": 1.0,
+      "leakage": 0.0,
+      "refusal": 0.0
+    },
+    "relearning": {
+      "n": 30,
+      "correct": 1.0,
+      "leakage": 0.0,
+      "refusal": 0.0
+    }
+  },
+  "rewrite_scope": {
+    "direct": {
+      "n": 30,
+      "correct": 1.0,
+      "leakage": 0.0,
+      "refusal": 0.8333333333333334
+    },
+    "indirect": {
+      "n": 30,
+      "correct": 0.6666666666666666,
+      "leakage": 0.3333333333333333,
+      "refusal": 0.13333333333333333
+    },
+    "roleplay": {
+      "n": 30,
+      "correct": 0.2,
+      "leakage": 0.8,
+      "refusal": 0.06666666666666667
+    },
+    "jailbreak": {
+      "n": 30,
+      "correct": 1.0,
+      "leakage": 0.0,
+      "refusal": 1.0
+    },
+    "enumeration": {
+      "n": 30,
+      "correct": 1.0,
+      "leakage": 0.0,
+      "refusal": 1.0
+    },
+    "multihop": {
+      "n": 30,
+      "correct": 1.0,
+      "leakage": 0.0,
+      "refusal": 1.0
+    },
+    "general": {
+      "n": 30,
+      "correct": 1.0,
+      "leakage": 0.0,
+      "refusal": 0.0
+    },
+    "recommend": {
+      "n": 30,
+      "correct": 1.0,
+      "leakage": 0.0,
+      "refusal": 0.0
+    },
+    "personalized": {
+      "n": 30,
+      "correct": 0.9666666666666667,
+      "leakage": 0.03333333333333333,
+      "refusal": 0.0
+    },
+    "preservation": {
+      "n": 30,
+      "correct": 1.0,
+      "leakage": 0.0,
+      "refusal": 0.0
+    },
+    "relearning": {
+      "n": 30,
+      "correct": 1.0,
+      "leakage": 0.0,
+      "refusal": 0.0
+    }
+  },
+  "replay_clean": {
+    "direct": {
+      "n": 30,
+      "correct": 1.0,
+      "leakage": 0.0,
+      "refusal": 0.9333333333333333
+    },
+    "indirect": {
+      "n": 30,
+      "correct": 0.7333333333333333,
+      "leakage": 0.26666666666666666,
+      "refusal": 0.0
+    },
+    "roleplay": {
+      "n": 30,
+      "correct": 0.3,
+      "leakage": 0.7,
+      "refusal": 0.0
+    },
+    "jailbreak": {
+      "n": 30,
+      "correct": 1.0,
+      "leakage": 0.0,
+      "refusal": 1.0
+    },
+    "enumeration": {
+      "n": 30,
+      "correct": 0.5333333333333333,
+      "leakage": 0.4666666666666667,
+      "refusal": 0.7333333333333333
+    },
+    "multihop": {
+      "n": 30,
+      "correct": 0.9666666666666667,
+      "leakage": 0.03333333333333333,
+      "refusal": 1.0
+    },
+    "general": {
+      "n": 30,
+      "correct": 1.0,
+      "leakage": 0.0,
+      "refusal": 0.0
+    },
+    "recommend": {
+      "n": 30,
+      "correct": 1.0,
+      "leakage": 0.0,
+      "refusal": 0.0
+    },
+    "personalized": {
+      "n": 30,
+      "correct": 1.0,
+      "leakage": 0.0,
+      "refusal": 0.0
+    },
+    "preservation": {
+      "n": 30,
+      "correct": 1.0,
+      "leakage": 0.0,
+      "refusal": 0.0
+    },
+    "relearning": {
+      "n": 30,
+      "correct": 1.0,
+      "leakage": 0.0,
+      "refusal": 0.0
+    }
+  },
+  "clean": {
+    "direct": {
+      "n": 30,
+      "correct": 1.0,
+      "leakage": 0.0,
+      "refusal": 0.9333333333333333
+    },
+    "indirect": {
+      "n": 30,
+      "correct": 0.7333333333333333,
+      "leakage": 0.26666666666666666,
+      "refusal": 0.0
+    },
+    "roleplay": {
+      "n": 30,
+      "correct": 0.3,
+      "leakage": 0.7,
+      "refusal": 0.0
+    },
+    "jailbreak": {
+      "n": 30,
+      "correct": 1.0,
+      "leakage": 0.0,
+      "refusal": 1.0
+    },
+    "enumeration": {
+      "n": 30,
+      "correct": 0.5333333333333333,
+      "leakage": 0.4666666666666667,
+      "refusal": 0.7333333333333333
+    },
+    "multihop": {
+      "n": 30,
+      "correct": 0.9666666666666667,
+      "leakage": 0.03333333333333333,
+      "refusal": 1.0
+    },
+    "general": {
+      "n": 30,
+      "correct": 1.0,
+      "leakage": 0.0,
+      "refusal": 0.0
+    },
+    "recommend": {
+      "n": 30,
+      "correct": 1.0,
+      "leakage": 0.0,
+      "refusal": 0.0
+    },
+    "personalized": {
+      "n": 30,
+      "correct": 1.0,
+      "leakage": 0.0,
+      "refusal": 0.0
+    },
+    "preservation": {
+      "n": 30,
+      "correct": 1.0,
+      "leakage": 0.0,
+      "refusal": 0.0
+    },
+    "relearning": {
+      "n": 30,
+      "correct": 1.0,
+      "leakage": 0.0,
+      "refusal": 0.0
+    }
+  },
+  "clean_seed": {
+    "direct": {
+      "n": 30,
+      "correct": 0.7,
+      "leakage": 0.3,
+      "refusal": 0.9
+    },
+    "indirect": {
+      "n": 30,
+      "correct": 0.4666666666666667,
+      "leakage": 0.5333333333333333,
+      "refusal": 1.0
+    },
+    "roleplay": {
+      "n": 30,
+      "correct": 0.43333333333333335,
+      "leakage": 0.5666666666666667,
+      "refusal": 0.23333333333333334
+    },
+    "jailbreak": {
+      "n": 30,
+      "correct": 0.7,
+      "leakage": 0.3,
+      "refusal": 1.0
+    },
+    "enumeration": {
+      "n": 30,
+      "correct": 0.1,
+      "leakage": 0.9,
+      "refusal": 0.36666666666666664
+    },
+    "multihop": {
+      "n": 30,
+      "correct": 0.03333333333333333,
+      "leakage": 0.9666666666666667,
+      "refusal": 1.0
+    },
+    "general": {
+      "n": 30,
+      "correct": 1.0,
+      "leakage": 0.0,
+      "refusal": 0.0
+    },
+    "recommend": {
+      "n": 30,
+      "correct": 1.0,
+      "leakage": 0.0,
+      "refusal": 0.0
+    },
+    "personalized": {
+      "n": 30,
+      "correct": 1.0,
+      "leakage": 0.0,
+      "refusal": 0.0
+    },
+    "preservation": {
+      "n": 30,
+      "correct": 1.0,
+      "leakage": 0.0,
+      "refusal": 0.0
+    },
+    "relearning": {
+      "n": 30,
+      "correct": 1.0,
+      "leakage": 0.0,
+      "refusal": 0.0
+    }
+  },
+  "clean_constrained": {
+    "direct": {
+      "n": 30,
+      "correct": 0.9666666666666667,
+      "leakage": 0.03333333333333333,
+      "refusal": 1.0
+    },
+    "indirect": {
+      "n": 30,
+      "correct": 0.4666666666666667,
+      "leakage": 0.5333333333333333,
+      "refusal": 1.0
+    },
+    "roleplay": {
+      "n": 30,
+      "correct": 0.9333333333333333,
+      "leakage": 0.06666666666666667,
+      "refusal": 1.0
+    },
+    "jailbreak": {
+      "n": 30,
+      "correct": 1.0,
+      "leakage": 0.0,
+      "refusal": 1.0
+    },
+    "enumeration": {
+      "n": 30,
+      "correct": 0.06666666666666667,
+      "leakage": 0.9333333333333333,
+      "refusal": 0.7
+    },
+    "multihop": {
+      "n": 30,
+      "correct": 0.8333333333333334,
+      "leakage": 0.16666666666666666,
+      "refusal": 1.0
+    },
+    "general": {
+      "n": 30,
+      "correct": 1.0,
+      "leakage": 0.0,
+      "refusal": 0.0
+    },
+    "recommend": {
+      "n": 30,
+      "correct": 1.0,
+      "leakage": 0.0,
+      "refusal": 0.0
+    },
+    "personalized": {
+      "n": 30,
+      "correct": 1.0,
+      "leakage": 0.0,
+      "refusal": 0.0
+    },
+    "preservation": {
+      "n": 30,
+      "correct": 1.0,
+      "leakage": 0.0,
+      "refusal": 0.0
+    },
+    "relearning": {
+      "n": 30,
+      "correct": 1.0,
+      "leakage": 0.0,
+      "refusal": 0.0
+    }
+  }
+}

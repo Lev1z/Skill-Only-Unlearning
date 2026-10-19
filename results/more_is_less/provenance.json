@@ -1,0 +1,31 @@
+{
+  "source_commit": "862aff6be384835a7cedc8169fd88d3b5e8dc2c3",
+  "hashes": {
+    "experiments/cs2_valid.py": "668ce1f7bf807ca46b825c7c195addf0be935b06f82e6759c14597002224b0a7",
+    "experiments/failure_analysis.py": "92cb78c0657828414ad159d83b11edafbe03c279a0410713d473105190794218",
+    "experiments/pro_primary.py": "f56f2a22b48d2e14bd098afbf0a10a9db33bd31bb77b5db57fc0ed3aa20b2740",
+    "experiments/metered.py": "087ea8f2c97736e3847e2f072a29cb68a5e6836e73b49bd5008bcaebf3d653b4",
+    "experiments/run_cs2.py": "153fca25d75d76ef7b9e6a3c19c2bb96b3eed22059ca796ab4db98b6601479b7",
+    "experiments/__init__.py": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+    "experiments/report.py": "8ca22603c91f7be15e6fadc0a9dfb8e36d55781092fa9f8c72c07a619485510d",
+    "experiments/plot.py": "667171d7b53c6d72e5e90a1fe56a5ec35fcebf18c6b26a141b238a0bb360508f",
+    "experiments/audit_cs2_final.py": "3297506fa0e318bb00e0728cc4aa54043bb666087e97e91dffd7a9a4e2f2c220",
+    "experiments/audit.py": "a9f9017bf3e60e7476999e666546ae21e0d4e4fa0186e530329dd7cabb663d9a",
+    "experiments/summarize.py": "ca070864172aa0a77adc4509b148aa049dcf397846b6fdf8ea4d6fc59dd58299",
+    "experiments/fact_store.py": "449ce9982943077466d236fa380b94b810b2f9a7a3124e20615842746fcda522",
+    "experiments/run_bemula.py": "fd12fe6c1e2e49ceca95a67f23aa4d922e7616970dd04fb7eade637cc20635e2",
+    "experiments/rejudge_cs2.py": "ec60a82ff6db02f319c8a3350461ca465f46745d9a6e41f83415c8f1e004e5d2",
+    "tests/test_experiment.py": "ff04db0e47d89e9ffe31c2e11d932b587cf307ed114dec2930bcce889da5aeed",
+    "tests/test_append_forget.py": "2c7628b1fa1e0aa51fb0032d230688b619b50fb1304ffb4f30dbc9dbb32bf48f",
+    "bemula/baselines/append_forget.py": "d959dcd1f053e9719a0c719185636fcff9933d6076bd6b7392beedf8896f5a76",
+    "scripts/run_eval.py": "5f14681edfd32d26bc807c0b0855c561e2abe1af32650433ff8de532beadb9ae",
+    "data/full/dialogues.jsonl": "e60d697ae799d9d4bd671156d2fc00f74128b3e2dc9b365f10ebebba3c94e40e",
+    "data/full/questions.jsonl": "a7574822770f02f8a42975cac854f8f380801cfe9703df973c673493a0c07197",
+    "data/full/profiles.jsonl": "ad50beba98836bcd3b020b7b89abd2dfa0756f73f7a6ad746431bea457f05cf9"
+  },
+  "python": "Python 3.12.14",
+  "models": {
+    "deepseek-flash": "DeepSeek-V4.1-Flash",
+    "deepseek-v4-pro": "DeepSeek-V4-Pro"
+  }
+}
